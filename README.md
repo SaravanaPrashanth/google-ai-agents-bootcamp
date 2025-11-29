@@ -10,8 +10,6 @@ For my final project, I built **InfoSynthesizer**, a Concierge Agent that acts a
 * **Architecture:** Sequential orchestration of a Parallel research team (Tech & Market researchers).
 * **Key Tech:** Google ADK, Gemini 2.5 Flash, InMemory Memory Service.
 
-[👉 View the Capstone Project](./capstone-project/InfoSynthesizer_Capstone.ipynb)
-
 ---
 
 ## 📚 Course Roadmap
